@@ -1,0 +1,8 @@
+<?php 
+
+// PALAVRAS RESERVADAS PELO SISTEMA NÃO PODEM SER UTILIZADAS NO NOME DE SUAS VARIÁVEIS.
+$this();
+$get();
+$post();
+
+?>
